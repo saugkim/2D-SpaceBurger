@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1623614331564954}
+  m_IsPrefabAsset: 1
+--- !u!1 &1623614331564954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4452192055216628}
+  - component: {fileID: 114441228003516374}
+  m_Layer: 0
+  m_Name: MenuRef 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4452192055216628
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1623614331564954}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114441228003516374
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1623614331564954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cabcb8457769dd4aa9e9bf314976cee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BurgerMenu:
+  - {fileID: 11400000, guid: f7f1f6c56512fa3498ef044df54e5d29, type: 2}
+  - {fileID: 11400000, guid: f5ec53cedbdb3d34faf04762c2c7ff60, type: 2}
+  - {fileID: 11400000, guid: 298e828e7e77a2f468ef71dd164a5e46, type: 2}
+  - {fileID: 11400000, guid: 89abcb1565744334990e1b78d0a3f351, type: 2}
+  - {fileID: 11400000, guid: 2f3a06d3f2dc9e6458f0637bb4bae59d, type: 2}
+  - {fileID: 11400000, guid: db9b96408844b9747bf9bea57da835f7, type: 2}
+  - {fileID: 11400000, guid: 5a686742697b2ae428b624214b1349b7, type: 2}
+  - {fileID: 11400000, guid: 83e30788bf99c1546a422abe0031e004, type: 2}
+  - {fileID: 11400000, guid: 75199610ef6d99e49b06098d82f3e184, type: 2}
+  - {fileID: 11400000, guid: fa2ea748949f5f1488a5639a9d42c19c, type: 2}
+  - {fileID: 11400000, guid: 998d37706867a464cb93d4a701bfe3bd, type: 2}
+  IngredientID:
+  - {fileID: 11400000, guid: 9577a12eb43a1a246a0a5c69cb2f7f0b, type: 2}
+  - {fileID: 11400000, guid: b84e1c34bbe3dcd43990c0ce998c66d6, type: 2}
+  - {fileID: 11400000, guid: c912e7bbae93ecc478a916e1a6c29bde, type: 2}
+  - {fileID: 11400000, guid: de56fad182e3d9d459432e4b34d8137a, type: 2}
+  - {fileID: 11400000, guid: 88f2facdc6f7ca045bfba74854369e0c, type: 2}
+  - {fileID: 11400000, guid: 9c7b6446b2dbb3e4a8f13c9ce0bcee7f, type: 2}
+  - {fileID: 11400000, guid: 30015787325ad6447a177c6101326348, type: 2}
+  - {fileID: 11400000, guid: 6b383cb5732c8994b8151ed5e4c07802, type: 2}
+  - {fileID: 11400000, guid: 5c127ac04c798db4199c2ae3be63e81a, type: 2}
+  - {fileID: 11400000, guid: bfdb9f3f3eba4734382fcf0288f07d55, type: 2}
+  RaakaPihvi: {fileID: 11400000, guid: 7b67d46a105d4244dabc68d5ee12fa15, type: 2}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43349fd4cb032d24ebc1e80fa3d4858c, type: 3}
+  m_Name: KansiSampyla
+  m_EditorClassIdentifier: 
+  name: KansiSampyla
+  AinesID: -3
+  Kuva: {fileID: 21300000, guid: dc3ba4989c327b341baa7284c7b2107d, type: 3}

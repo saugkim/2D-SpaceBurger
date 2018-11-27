@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5f8aab70869e4193b6ca1197b24cde7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GScreen: {fileID: 21300000, guid: db21e943c84ae6e4b854e82fe2905763, type: 3}
+  - BScreen: {instanceID: 0}
+  - YScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
